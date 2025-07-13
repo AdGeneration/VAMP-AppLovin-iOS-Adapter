@@ -1,0 +1,3 @@
+//
+//  VAMP-AppLovin-iOS-Adapter
+//
