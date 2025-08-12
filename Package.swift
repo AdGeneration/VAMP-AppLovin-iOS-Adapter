@@ -21,7 +21,7 @@ let package = Package(
         ),
         .package(
             url: "https://github.com/AppLovin/AppLovin-MAX-Swift-Package.git",
-            exact: "13.2.0"
+            exact: "13.3.1"
         ),
     ],
     targets: [
@@ -37,7 +37,7 @@ let package = Package(
             path: "VAMPAppLovinAdapterTarget"
         ),
         .binaryTarget(name: "VAMPAppLovinAdapter",
-                      url: "https://d2dylwb3shzel1.cloudfront.net/iOS/VAMPAppLovinAdapter-v13.2.0.zip",
-                      checksum: "3bd10745052f508c9a2e120ab435970c2ad77316ac84527650cfaa8df7611a23")
+                      url: "https://d2dylwb3shzel1.cloudfront.net/iOS/VAMPAppLovinAdapter-v13.3.100.zip",
+                      checksum: "d11d7067a24d761c7fdb586f5da88a2cae3626684d04c148a513ad4c49c016f5")
     ]
 )
