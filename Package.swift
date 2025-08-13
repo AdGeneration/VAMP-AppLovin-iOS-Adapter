@@ -37,7 +37,7 @@ let package = Package(
             path: "VAMPAppLovinAdapterTarget"
         ),
         .binaryTarget(name: "VAMPAppLovinAdapter",
-                      url: "https://d2dylwb3shzel1.cloudfront.net/iOS/VAMPAppLovinAdapter-v13.3.100.zip",
-                      checksum: "d11d7067a24d761c7fdb586f5da88a2cae3626684d04c148a513ad4c49c016f5")
+                      url: "https://d2dylwb3shzel1.cloudfront.net/iOS/VAMPAppLovinAdapter-v13.3.101.zip",
+                      checksum: "f56964c4187b759016f4fd6bb7d61c0e528d1670af8af40a92830e3ec7ef6414")
     ]
 )
